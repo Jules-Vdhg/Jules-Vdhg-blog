@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Vanderhaege Jules" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hi everyone ! I'm Jules, biology student in Mons' University and this blog's goal will be to centralise different articles about the fascinating relationships between living species.
 
-- first name/surname, teacher’s name, class name and academic year
+- Vanderhaege Jules, Ingrid Van Lancker, group 1, 2020-2021
