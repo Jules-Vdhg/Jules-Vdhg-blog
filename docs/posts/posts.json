@@ -15,6 +15,23 @@
     "last_modified": "2020-10-23T17:42:47+02:00"
   },
   {
+    "path": "posts/2020-10-23-plants-secret-relationship-with-fungi/",
+    "title": "plant's' secret relationship with fungi",
+    "description": "New database with all the symbiotic relationship discovered between plants and soil fungi until now elaborated.",
+    "author": [
+      {
+        "name": "Vanderhaege Jules",
+        "url": {
+          "https://phys.org/news/2020-05-database-reveals-secret-relationships-fungi.html": {}
+        }
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T14:44:39+02:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
