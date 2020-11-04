@@ -18,21 +18,6 @@
     "last_modified": "2020-11-03T16:34:00+01:00"
   },
   {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Vanderhaege Jules",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-23",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-23T17:42:47+02:00"
-  },
-  {
     "path": "posts/2020-10-23-plants-secret-relationship-with-fungi/",
     "title": " Article 1 - Plant's' secret relationship with fungi",
     "description": "New database with all the symbiotic relationship discovered between plants and soil fungi until now elaborated.",
@@ -48,6 +33,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-11-03T16:30:58+01:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Vanderhaege Jules",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-23T17:42:47+02:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
