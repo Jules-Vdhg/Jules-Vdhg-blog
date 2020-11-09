@@ -14,8 +14,8 @@ navbar:
 base_url: https://jules-vdhg.github.io/Jules-Vdhg-blog/
 collections:
     posts:
+      disqus: jules-vdhgs-blog
       share: [twitter, linkedin, facebook]
-      disqus: Jules-Vdhg-blog
 output:
   distill::distill_article:
     css: style.css
