@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/Jules-Vdhg/Jules-Vdhg-blog.git
-base_url: Jules-Vdhg.github.io/Jules-Vdhg-blog/
+      href: https://github.com/Jules-Vdhg/Jules-Vdhg-blog/
+base_url: Jules-Vdhg-blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
