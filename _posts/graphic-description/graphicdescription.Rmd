@@ -15,7 +15,7 @@ output:
 This article will study how the urchin's skeleton could be influenced by the environment. In this case, we will study how is evolving the ratio between the weight of the test, which is the urchin's skeleton, and the total weight. We will also distinguish if the different individuals come from the fishery or if they were raised in farm. We will work from a set of data which contains 421 observations and measurements following 19 variables.
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
@@ -24,7 +24,7 @@ data <- read("urchin_bio", package = "data.io")
 ```
 
 ```{r}
-chart(urchin_bio, test ~ weight %col=% origin) +
+chart(data, test ~ weight %col=% origin) +
   geom_point(na.rm = TRUE)
 ```
 
