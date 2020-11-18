@@ -1,0 +1,36 @@
+---
+title: "Graphic description about urchins"
+description: |
+  Study about how the urchin's skeleton could be influenced by the environment
+categories: "Data Sciences I"
+author:
+  - name: Jules Vanderhaege
+    url: {}
+date: 11-18-2020
+output: 
+  distill::distill_article:
+    self_contained: false
+--- 
+
+This article will study how the urchin's skeleton could be influenced by the environment. In this case, we will study how is evolving the ratio between the weight of the test, which is the urchin's skeleton, and the total weight. We will also distinguish if the different individuals come from the fishery or if they were raised in farm. We will work from a set of data which contains 421 observations and measurements following 19 variables.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+SciViews::R
+data <- read("urchin_bio", package = "data.io")
+```
+
+```{r}
+chart(urchin_bio, test ~ weight %col=% origin) +
+  geom_point(na.rm = TRUE)
+```
+
+We can see that the ratio weight of the test - total weight is in general slightly larger for the individuals from fishery. It means that a wild individual will have a heavier skeleton than the domestic one. It could be caused by the tougher conditions in open seas or by the diet, by an adaptation to the absence of predators in farms,...
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

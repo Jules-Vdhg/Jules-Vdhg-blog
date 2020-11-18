@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/graphic-description/",
+    "title": "Graphic description about urchins",
+    "description": "Study about how the urchin's skeleton could be influenced by the environment",
+    "author": [
+      {
+        "name": "Jules Vanderhaege",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-18",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/graphic-description/graphicdescription_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2020-11-18T13:27:26+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
