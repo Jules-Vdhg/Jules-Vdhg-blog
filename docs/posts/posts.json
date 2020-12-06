@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-06-mon-article/",
+    "title": "Symbiosis everywhere, at ant time",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Jules Vanderhaege",
+        "url": {
+          "https://cosmosmagazine.com/social-sciences/symbiosis-when-living-together-win-win/": {}
+        }
+      }
+    ],
+    "date": "2020-12-06",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-06T13:10:56+01:00"
+  },
+  {
     "path": "posts/graphic-description/",
     "title": "Graphic description about urchins",
     "description": "Study about how the urchin's skeleton could be influenced by the environment",

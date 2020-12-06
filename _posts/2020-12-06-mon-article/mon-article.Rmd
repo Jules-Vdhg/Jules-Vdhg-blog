@@ -1,0 +1,54 @@
+---
+title: "Symbiosis everywhere, at ant time"
+description: |
+  A short description of the post.
+author:
+  - name: Jules Vanderhaege
+    url: {https://cosmosmagazine.com/social-sciences/symbiosis-when-living-together-win-win/}
+date: 12-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* behaviour = habit : comportement
+* dwell = live : habiter
+* scarce = lacking : rare
+* hitchhike = solicit car ride : faire du stop
+* leftovers = food remaining : restes
+* poke = jab with finger : pousser
+* grip = grasp : attache
+* fend off = repel : repousser
+* frantically = desperately : frénétiquement
+* blind = sightless : aveugle
+* burrow = warren,nest : terrier, nid
+* bolthole = hideout : refuge
+* startle = surprise : surprendre
+* ordeal = trial : épreuve
+* prey = hunted animal : proie
+* crop = farming : culture
+* partnership = symbiosis : symbiose, partenariat
+* rewarding = satisfying : gratifiant
+* gobble up = eat : engloutir
+* yet = also, still : déjà, encore
+* awfully = extremely : terriblement
+
+
+# Analysis table         
+
+* __Words count : __ 957
+* __Researcher(s)  : __ Kerensa McElroy 
+* __Published in  : __ April 2014
+* __General topic : __ Variety of symbiosis 
+* __Conclusions/discovery : __ It turns out that there's a larger amount of possible symbiosis that exist than what we could expect. Lots of marine animals, bugs, plants,... can establish a strong and durable partnership, throughout centuries, which will influence their evolutionary path, like mitochondria did for almost every living organism.
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
