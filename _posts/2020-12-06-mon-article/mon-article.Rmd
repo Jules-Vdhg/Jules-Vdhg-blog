@@ -1,5 +1,5 @@
 ---
-title: "Symbiosis everywhere, at ant time"
+title: "Artcile 2 - Symbiosis everywhere, at any time"
 description: |
   Variety of symbiotic relationship
 author:
