@@ -1,9 +1,8 @@
 ---
 title: "Artcile 2 - Symbiosis everywhere, at any time"
-description: |
-  Variety of symbiotic relationship
+description: Variety of symbiotic relationship
 author:
-  - name: Jules Vanderhaege
+  - name: Kerensa McElroy
     url: {https://cosmosmagazine.com/social-sciences/symbiosis-when-living-together-win-win/}
 date: 12-06-2020
 output:
