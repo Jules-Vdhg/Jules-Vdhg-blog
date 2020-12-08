@@ -1,0 +1,43 @@
+---
+title: "Symbiosis : the art of living together"
+description: All the different forms of interactions between organisms
+author: National Geographic
+  - name: Jules Vanderhaege
+    url: {https://www.nationalgeographic.org/article/symbiosis-art-living-together/3rd-grade/}
+date: 12-08-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* wheter = if : si 
+* either or both : l'un ou les deux
+* provide = give : fournir
+* shelter = reufge : abri
+* seaweed = alga : algue
+* each other = one another : l'un l'autre
+* sting = insect : piquer
+* stun = daze : assommer
+* bother = annoy : déranger
+* harmful = damaging : nocif, dangereux 
+* careful = cautious : prudent
+
+
+# Analysis table         
+
+* __Words count : __ 535 
+* __Researchers  : __ Sarah Appleton, Margot Willis (National Geographic Society) 
+* __Published in  : __  April 19, 2019
+* __General topic : __ Various forms of interactions between animals 
+* __Conclusions/discovery : __ This article explains the five types of symbiosis : mutualism, commensalism, predation, parasitism and competition, it explains the differences in each other and how they work. 
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

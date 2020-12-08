@@ -1,11 +1,9 @@
 ---
-title: "mon article"
-description: |
-  A short description of the post.
+title: "Article 3 - This parasitic plant consists of just flashy flowers and creepy suckers"
+description: Nice exemple to show the differene between parasite and symbiont
 author:
-  - name: Jules Vanderhaege
-    url:
-      https://cosmosmagazine.com/social-sciences/symbiosis-when-living-together-win-win/: {}
+  - name: ScienceDaily
+    url: {https://www.sciencenews.org/article/parasitic-plant-consists-flashy-flowers-creepy-suckers}
 date: 12-07-2020
 output:
   distill::distill_article:
@@ -15,6 +13,27 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* creepy = scray : effrayant
+* strip down to = reduce to :réduire 
+* doorknob = round doorhandle : bouton de porte
+* intricate = complex : complexe
+* grayish = tinged with gray : grisâtre
+* blah = dull : insipide
+* freeloader =  : profiteur
+* sport = wear : arborer
+* ooze = flow slowly : suinter
+* nubbin : épis rabougri
+* parched =dry : sec
+
+
+* __Words count : __ 365 
+* __Researcher(s)  : __ Susan Milius 
+* __Published in  : __ July 2020 
+* __General topic : __ Parasitic plants 
+* __Conclusions/discovery : __ To understand symbiosis, we must learn to make a difference between this kind of relationship and parasitic interactions. This plant shows a great example in this situation because it's even at the edge of the plant's definition. This organism will steal to its host and without giving anything else in return. This plants is completely dependent but its host will only suffer from this association.
+
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
