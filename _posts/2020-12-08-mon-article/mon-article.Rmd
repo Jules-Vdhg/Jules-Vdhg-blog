@@ -1,5 +1,5 @@
 ---
-title: "Symbiosis : the art of living together"
+title: "Article 4 - Symbiosis : the art of living together"
 description: All the different forms of interactions between organisms
 author: National Geographic
   - name: Jules Vanderhaege
