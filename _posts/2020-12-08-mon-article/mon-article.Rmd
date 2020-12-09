@@ -1,8 +1,8 @@
 ---
 title: "Article 4 - Symbiosis : the art of living together"
 description: All the different forms of interactions between organisms
-author: National Geographic
-  - name: Jules Vanderhaege
+author:
+  - name: National Geographic
     url: {https://www.nationalgeographic.org/article/symbiosis-art-living-together/3rd-grade/}
 date: 12-08-2020
 output:

@@ -1,11 +1,45 @@
 [
   {
-    "path": "posts/2020-12-06-mon-article/",
-    "title": "Artcile 2 - Symbiosis everywhere, at any time",
+    "path": "posts/2020-12-08-mon-article/",
+    "title": "Article 4 - Symbiosis : the art of living together",
+    "description": "All the different forms of interactions between organisms",
+    "author": [
+      {
+        "name": "National Geographic",
+        "url": {
+          "https://www.nationalgeographic.org/article/symbiosis-art-living-together/3rd-grade/": {}
+        }
+      }
+    ],
+    "date": "2020-12-08",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-09T13:53:50+01:00"
+  },
+  {
+    "path": "posts/2020-12-07 - This parasitic plant consists of just flashy flowers and creepy suckers/",
+    "title": "Article 3 - This parasitic plant consists of just flashy flowers and creepy suckers",
+    "description": "Nice exemple to show the differene between parasite and symbiont",
+    "author": [
+      {
+        "name": "ScienceDaily",
+        "url": {
+          "https://www.sciencenews.org/article/parasitic-plant-consists-flashy-flowers-creepy-suckers": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-09T13:49:09+01:00"
+  },
+  {
+    "path": "posts/2020-12-06-Symbiosis everywhere at any time/",
+    "title": "Article 2 - Symbiosis everywhere, at any time",
     "description": "Variety of symbiotic relationship",
     "author": [
       {
-        "name": "Jules Vanderhaege",
+        "name": "Kerensa McElroy",
         "url": {
           "https://cosmosmagazine.com/social-sciences/symbiosis-when-living-together-win-win/": {}
         }
@@ -14,7 +48,7 @@
     "date": "2020-12-06",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-07T12:12:59+01:00"
+    "last_modified": "2020-12-09T13:48:36+01:00"
   },
   {
     "path": "posts/graphic-description/",

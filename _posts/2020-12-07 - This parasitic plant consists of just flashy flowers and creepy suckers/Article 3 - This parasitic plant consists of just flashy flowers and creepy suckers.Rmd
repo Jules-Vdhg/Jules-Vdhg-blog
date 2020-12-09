@@ -1,6 +1,6 @@
 ---
 title: "Article 3 - This parasitic plant consists of just flashy flowers and creepy suckers"
-description: Nice exemple to show the differene between parasite and symbiont
+description: Nice exemple to show the difference between parasite and symbiont
 author:
   - name: ScienceDaily
     url: {https://www.sciencenews.org/article/parasitic-plant-consists-flashy-flowers-creepy-suckers}
