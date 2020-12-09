@@ -1,5 +1,5 @@
 ---
-title: "Artcile 2 - Symbiosis everywhere, at any time"
+title: "Article 2 - Symbiosis everywhere, at any time"
 description: Variety of symbiotic relationship
 author:
   - name: Kerensa McElroy
