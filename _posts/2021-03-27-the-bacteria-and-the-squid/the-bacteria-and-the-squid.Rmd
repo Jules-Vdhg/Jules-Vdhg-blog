@@ -1,0 +1,50 @@
+---
+title: Article 5 - "The bacteria and the squid"
+description: Researchers have discovered a molecule that appears to play an important role in the iconic symbiotic relationship between a bioluminescent bacteria (Vibrio Fischeri) and the Hawaiian bobtail squid.
+author:
+  - name: University of California - Santa Cruz
+    url: {https://eurekalert.org/pub_releases/2021-03/uoc--als030921.php}
+date: 03-27-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* glowing = dazzling : luminescent
+* yield = lead to : mener à
+* clues = evidence : indices 
+* new wrinkle = innovation : nouveauté 
+* understanding = knowledge :  compréhension
+* thumb : pouce 
+* shallow = not deep : peu profond 
+* downward = down : vers le bas 
+* to match = ressembler à : assortir (dans ce cas)
+* to hatch = be born : éclore 
+* teeming = full of : grouillant 
+* strain = variant : souche 
+* sample = representative piece : échantillon 
+* targeted = aimed : ciblé
+* abundantly = massively : en abondance 
+* supplement = vitamine : complément 
+* tied = attached : lié
+* involved = concerned :  impliqué
+
+# Analysis table         
+
+* __Words count : __ 657 
+* __Researchers  : __ Laura Sanchez 
+* __Published in  : __ march 2021 
+* __General topic : __ symbiosis between a squid and a bioluminescent bacteria 
+* __Conclusions/discovery : __ Thanks to the work of Mrs Sanchez, we now know what kind of molecule is used by the bacteria to interact with its host to create bioluminescence. Previous experience showed when it was produced, which is just after the hatching, and what importance this molecule has in the relationship. It's a huge step forward in the study of this iconic relationship between the hawaiian bobtail squid and the bacteria V. fischeri.
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

@@ -1,20 +1,20 @@
 [
   {
-    "path": "posts/2020-12-08-mon-article/",
-    "title": "Article 4 - Symbiosis : the art of living together",
-    "description": "All the different forms of interactions between organisms",
+    "path": "posts/2021-03-27-the-bacteria-and-the-squid/",
+    "title": "Article 5 - \"The bacteria and the squid\"",
+    "description": "Researchers have discovered a molecule that appears to play an important role in the iconic symbiotic relationship between a bioluminescent bacteria (Vibrio Fischeri) and the Hawaiian bobtail squid.",
     "author": [
       {
-        "name": "National Geographic",
+        "name": "University of California - Santa Cruz",
         "url": {
-          "https://www.nationalgeographic.org/article/symbiosis-art-living-together/3rd-grade/": {}
+          "https://eurekalert.org/pub_releases/2021-03/uoc--als030921.php": {}
         }
       }
     ],
-    "date": "2020-12-08",
+    "date": "2021-03-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-12-09T13:53:50+01:00"
+    "last_modified": "2021-03-27T16:59:35+01:00"
   },
   {
     "path": "posts/2020-12-07 - This parasitic plant consists of just flashy flowers and creepy suckers/",
