@@ -1,0 +1,48 @@
+---
+title: article 6 - "Multinational corporation companies ans IA, the symbiotic relationship"
+description: Symbiotic relationship are not exclusive to animals and plants, they can be litteraly everywhere.
+author:
+  - name: Sandra Theres Dony
+    url: {https://techstory.in/mncs-and-ai-the-symbiotic-relationship/}
+date: 03-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* among = counted with : parmi
+* trending = fashion : tendance
+* across = troughout : à travers
+* pace = speed : allure
+* prone to = tending to : enclin à
+* filling up = make full : remplir
+* thereby = in this way : ainsi
+* framework = architecture : charpente
+* apart from this : au-delà de ça 
+* leverage= empower : avantager
+* patterns = habits : habitude
+* customer retention : fidélisation du client
+* owed to = due to : dû à
+* significant = noticeable : significatif
+* underscore = emphasize : souligner
+
+
+# Analysis table         
+
+* __Words count : __ 505 
+* __Researchers  : __ Sandra Theres Dony 
+* __Published in  : __  March 2021
+* __General topic : __ Symbiotic relationship between companies and AI 
+* __Conclusions/discovery : __ This article shows that the principle of the symbiotic relationship can be applied to many things, because they're so important for both of the actors. Animals, plants and even artificial intelligence are able to connect with each others in order to be more productive and efficient. 
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

@@ -1,0 +1,48 @@
+---
+title: "More food from fungi ?"
+description: 
+author:
+  - name:  Michael Tennesen
+    url: {https://www.scientificamerican.com/article/more-food-from-fungi/}
+date: 03-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Vocabulary = synonym : translation
+-------------------------------------------------------
+* crop = farming : culture 
+* yield = amount produced : récolte 
+* grazing = eating grass : patûre 
+* cattle = livestock : bétail 
+* uptake = absorption : prise 
+* harness : s'attacher (dans ce cas) 
+* tackle (smth) : s'attaquer à 
+* febd off = defend yourself against : repousser 
+* progeny = descendant : progéniture 
+* drawback = disadvantage : inconvénient 
+* sowing = scattering : semis 
+* cultivar = type of plant 
+* embedded = set inside : incrusté 
+*  =  :  
+*  =  :  
+*  =  :  
+*  =  :  
+
+# Analysis table         
+
+* __Words count : __ 684 
+* __Researchers  : __ Mary E. Lucero, Rusty Rodriguez, Christopher L. Schardl
+* __Published in  : __ May 2020
+* __General topic : __ Modifying plants genes 
+* __Conclusions/discovery : __ Scientist are trying to use symbiotic microbes to enhance industrial agriculture, in order to fortify the plants. This could lead to more effective productions, but we have to be careful because modifying the plants' genes is not always safe. This study shows that humans could actually use symbiotic relationship between plants and microbes to their own advantage.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
