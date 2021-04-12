@@ -1,5 +1,5 @@
 ---
-title: "More food from fungi ?"
+title: Article 7 - "More food from fungi ?"
 description: 
 author:
   - name:  Michael Tennesen
