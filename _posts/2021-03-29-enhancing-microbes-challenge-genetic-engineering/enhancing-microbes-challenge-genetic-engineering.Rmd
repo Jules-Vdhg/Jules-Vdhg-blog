@@ -1,6 +1,6 @@
 ---
 title: Article 7 - "More food from fungi ?"
-description: 
+description: Using modificated organisms to get more yields
 author:
   - name:  Michael Tennesen
     url: {https://www.scientificamerican.com/article/more-food-from-fungi/}
@@ -29,10 +29,7 @@ Vocabulary = synonym : translation
 * sowing = scattering : semis 
 * cultivar = type of plant 
 * embedded = set inside : incrusté 
-*  =  :  
-*  =  :  
-*  =  :  
-*  =  :  
+
 
 # Analysis table         
 

@@ -1,15 +1,5 @@
 [
   {
-    "path": "posts/2021-04-18-introcution/",
-    "title": "Introcution",
-    "description": {},
-    "author": [],
-    "date": "2021-04-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-04-18T17:01:21+02:00"
-  },
-  {
     "path": "posts/2021-04-18-conclusion/",
     "title": "Conclusion",
     "description": {},
@@ -20,25 +10,18 @@
     "last_modified": "2021-04-18T17:07:58+02:00"
   },
   {
-    "path": "posts/2021-03-29-enhancing-microbes-challenge-genetic-engineering/",
-    "title": "Article 7 - \"More food from fungi ?\"",
+    "path": "posts/2021-04-18-introcution/",
+    "title": "Introduction",
     "description": {},
-    "author": [
-      {
-        "name": "Michael Tennesen",
-        "url": {
-          "https://www.scientificamerican.com/article/more-food-from-fungi/": {}
-        }
-      }
-    ],
-    "date": "2021-03-29",
+    "author": [],
+    "date": "2021-04-18",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-18T17:07:11+02:00"
+    "last_modified": "2021-04-18T17:12:51+02:00"
   },
   {
     "path": "posts/2021-03-29-multinational-corporation-companies-ans-ia-the-symbiotic-relationship/",
-    "title": "article 6 - \"Multinational corporation companies ans IA, the symbiotic relationship\"",
+    "title": "Article 6 - \"Multinational corporation companies ans IA, the symbiotic relationship\"",
     "description": "Symbiotic relationship are not exclusive to animals and plants, they can be litteraly everywhere.",
     "author": [
       {
@@ -51,7 +34,24 @@
     "date": "2021-03-29",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-04-18T17:07:27+02:00"
+    "last_modified": "2021-04-18T17:13:03+02:00"
+  },
+  {
+    "path": "posts/2021-03-29-enhancing-microbes-challenge-genetic-engineering/",
+    "title": "Article 7 - \"More food from fungi ?\"",
+    "description": "Using modificated organisms to get more yields",
+    "author": [
+      {
+        "name": "Michael Tennesen",
+        "url": {
+          "https://www.scientificamerican.com/article/more-food-from-fungi/": {}
+        }
+      }
+    ],
+    "date": "2021-03-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-18T17:13:13+02:00"
   },
   {
     "path": "posts/2021-03-27-the-bacteria-and-the-squid/",

@@ -1,5 +1,5 @@
 ---
-title: article 6 - "Multinational corporation companies ans IA, the symbiotic relationship"
+title: Article 6 - "Multinational corporation companies ans IA, the symbiotic relationship"
 description: Symbiotic relationship are not exclusive to animals and plants, they can be litteraly everywhere.
 author:
   - name: Sandra Theres Dony

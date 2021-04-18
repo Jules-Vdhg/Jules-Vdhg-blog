@@ -10,7 +10,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-At the end of the day, we learnt new things about symbiosis : i did struggle to find interesting articles considered the fact that this subject is not very studied but it was worth it.
+At the end of the day, we learnt new things about symbiosis : i did struggle to find interesting articles considered the fact that this subject is not very studied but it was worth it.
 We discovered how important and omnipresent symbiotic relationship can be.
 
 The main principle can be applied to many examples and there are numerous variations : mutualism, parasitism,… Between animals, plants, human beings and even more !
