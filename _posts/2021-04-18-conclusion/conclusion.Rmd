@@ -1,0 +1,27 @@
+---
+title: "Conclusion"
+
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+At the end of the day, we learnt new things about symbiosis : i did struggle to find interesting articles considered the fact that this subject is not very studied but it was worth it.
+We discovered how important and omnipresent symbiotic relationship can be.
+
+The main principle can be applied to many examples and there are numerous variations : mutualism, parasitism,… Between animals, plants, human beings and even more !
+
+We also discovered important relations that reverberate on the hole biosphere like the symbiosis between plants and fungi. At the opposite, we learnt how different organisms like a little squid use these symbiosis to develop new mechanisms for themselves.
+
+Symbiosis are definitly a pillar in the biosphere, the study of these will result in a better comprehension of the world surrounding us and we’ll be able to use this knowledge to protect the environment more efficiently.
+
+I hope you liked this travel through the links of the living network !
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

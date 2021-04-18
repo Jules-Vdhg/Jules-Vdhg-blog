@@ -1,0 +1,31 @@
+---
+title: "Introcution"
+
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I decided to choose symbiotic relationship as my main interest for this blog for many reasons : here's why.
+
+First, symbiotic relationship interest me and they're super important in the biosphere but they're not always studied or even noted. We don’t pay that much of attention to them because they seem normal, spontaneous. 
+When we see a fish attached to a shark’s belly (they’re called Remoras) some people might just pass through it but I wonder : when did it attached : did the remoras came to birth and instantly found a shark or did he choose it ? Does it stay on the same shark forever or does it goes from shark to shark ? What does either the remora or the shark takes as an advantage in this relationship ? Is the shark even in agreement with that ?
+
+Then, once you’ve discovered a new symbiotic relationship : you have to ask yourself : « what kind of relationship is it ? ». Is it benefic for both parts or only one ? Does this association would be even harmful for one of the subjects ? Is it forced by one or both agree to the association ? Is the association between the two parts essential or they can live on their own ?
+
+Well you got it : if you look for it, there’s a lot more behind this example than expected and that’s one of the most famous !
+I’m pretty sure there’s a lot more similar relationships than what we can actually see with our humans’ eyes. Understanding all the links between the animals themselves or with the plants or even with us is one of the key to protect nature in my opinion.
+We can’t protect a world that we don’t deeply understand. 
+We already destroyed a lot of things because we didn’t know what they were about and that includes not only the nature but also some parts of our ancestral legacy.
+
+In the end, I hope that this collection of articles about symbiotic relationships may interest you and educate you to the intricate links between living beings
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
